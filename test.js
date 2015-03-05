@@ -1,4 +1,5 @@
-// utility funcion
+// utility funcions
+//aww yeah
 function fibonacci(n) {
     if (n < 2)
         return 1;
